@@ -1,0 +1,8 @@
+name: 'ddns'
+ip: '127.0.0.1'
+api_url:
+  - 'http://api.ipify.org'
+aliyun:
+  id: ''
+  secret: ''
+  demain: 'tomsluo.com'

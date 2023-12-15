@@ -1,0 +1,6 @@
+runtime/
+*.exe
+main
+.idea/
+.vscode/
+config.yaml
